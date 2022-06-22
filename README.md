@@ -83,12 +83,25 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 ### After the Ball hit the cube:
 ![ball1](https://user-images.githubusercontent.com/75235022/174820302-92b26481-cc53-42b2-ba5f-157dd33fa4f7.png)
 
 ![ball2](https://user-images.githubusercontent.com/75235022/174820425-cfb5837b-ea72-4e3d-b0ad-a4328eed88e2.png)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ### Redirected scene:
 ![3](https://user-images.githubusercontent.com/75235022/174820470-0aea5d6b-d9e3-4899-a1c3-33c2095b73a8.png)
